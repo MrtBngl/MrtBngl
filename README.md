@@ -24,25 +24,7 @@ I am a passionate software developer focused on building scalable web & mobile a
 
 ---
 
-### 🚀 Featured Projects
-
-- ☁️ **[PrivCloud](./)** - Personal secure cloud storage application built with Next.js, Supabase, and Drizzle ORM.
-- 📱 **[Planova](./)** - Cross-platform mobile habit-tracking and productivity application built with React Native & Expo.
-- 🐾 **[Hayvanların Sesi](./)** - Web platform providing resources and official reporting workflows for animal protection.
-- 💬 **[Pisas](./)** - Business appointment coordination & automated WhatsApp messaging integration system.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrtBngl&show_icons=true&theme=tokyonight" alt="Murat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrtBngl&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/murat-bing%C3%B6l-291b9b3b3)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mrtbngl2534@gmail.com)
