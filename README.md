@@ -1,7 +1,7 @@
-# Hi there, I'm Murat Bingöl 👋 
-### Full-Stack & Mobile Developer | Computer Programming Student 💻
+# Hi there, I'm Murat Bingöl 👋
+### Full-Stack & Automation Developer | Computer Programming Graduate 💻
 
-I am a passionate software developer focused on building scalable web & mobile applications, AI-driven solutions, and clean architecture. Always eager to learn new tech stacks and turn creative ideas into real-world applications.
+I specialize in building AI-driven systems, custom automation engines, and developer tools (DevTools). My focus is on creating resilient backend architectures, optimizing API integrations, and streamlining complex software workflows—turning intricate engineering challenges into scalable, real-world applications.
 
 ---
 
